@@ -1,0 +1,39 @@
+{
+    "name": "CORE",
+    "description": "<p>The Apache Tika&trade; toolkit detects and extracts metadata and structured text content from various documents using existing parser libraries. You can find the latest release on the download page. See the Getting Started guide for instructions on how to start using Tika. Tika is a project of the Apache Software Foundation, and was formerly a subproject of Apache Lucene.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/apache-tika-logo.png",
+    "tags": [
+        "api provider",
+        "data",
+        "documents",
+        "have api",
+        "pdf"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/core\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "CORE",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/apache-tika-logo.png",
+            "humanURL": "http:\/\/core.kmi.open.ac.uk\/intro\/api",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/core-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/core.kmi.open.ac.uk\/intro\/api"
+        }
+    ]
+}
