@@ -33,13 +33,15 @@ x-category: "Science & Math"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Science And Math
   - Public APIs
+  - Open Access
+  - Scholarly
+  - Research
+  - Science
 apis:
   - name: CORE
     description: "Access the world's Open Access research papers"
     humanURL: https://core.ac.uk/services#api
-    baseURL: https://core.ac.uk/services#api
     tags:
       - Science And Math
     properties:
@@ -55,3 +57,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Science And Math
