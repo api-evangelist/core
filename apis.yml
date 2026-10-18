@@ -42,7 +42,8 @@ apis:
   - name: CORE
     description: "Access the world's Open Access research papers"
     humanURL: https://core.ac.uk/services#api
-    tags:
+    tags: []
+    tags_raw:
       - Science And Math
     properties:
       - type: Documentation
